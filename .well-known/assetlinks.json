@@ -1,11 +1,15 @@
+
 [
-{
-"relation": [
-"delegate_permission/common.handle_all_urls"
-],
-"target": {
-"namespace": "android_app",
-"package_name": "io.github.thejagi67.twa",
-"sha256_cert_fingerprints": [
-"A1:EF:A1:8A:5D:CF:CF:15:40:46:44:C3:08:4D:CA:43:03:47:6A:05:6C:73:A5:EB:8C:6C:7C:C4:A5:68:4B:0E"
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.thejagi67.twa",
+      "sha256_cert_fingerprints": [
+        "A1:EF:A1:8A:5D:CF:CF:15:40:46:44:C3:08:4D:CA:43:03:47:6A:05:6C:73:A5:EB:8C:6C:7C:C4:A5:68:4B:0E"
+      ]
+    }
+  }
 ]
